@@ -1,5 +1,7 @@
 # Display Console
 
+**This repository is now part of https://github.com/alarmdisplay/display**
+
 This web application offers a user interface to manage the [Display Backend](https://github.com/alarmdisplay/display-backend).
 
 ## Development
